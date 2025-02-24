@@ -76,7 +76,7 @@ I wrote a post summarizing my 7-month job search journey. It’s packed with tip
 
 ### **2. Use AI as a Tool to Level Up**
 
-AI tools can help you learn and work faster. Here are a few I recommend:
+AI tools can help you learn and work faster. Please do not shy away from using them, I cannot stress this enough. You definitely need to use AI to make your learning more efficient. Here are a few I recommend:
 
 - **Claude**: Great for long code generation.
 - **Cursor**: A fantastic code editor with AI-powered features. It’s super fast if you don’t want to leave your editor. You can keep "tabbing," and the autocomplete will blow your mind. But definitely don’t overuse it.
