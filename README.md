@@ -87,4 +87,4 @@ AI tools can help you learn and work faster. Please do not shy away from using t
 Don’t underestimate the value of learning from others and working with someone experienced in the industry. Here are two platforms I recommend:
 
 - **Mentorcruise**: Connect with mentors in tech. It’s very useful if you want to work long-term with a senior software engineer. Some mentors charge less than $150/month, which I personally feel is good value for money. But you can decide for yourself. [Check it out here](https://mentorcruise.com/)
-- **Adplist**: Another great place to find mentors and get career advice. It’s free to meet some mentors on an ad-hoc basis. You can pay to have a long-term relationship with some of the mentors. [Check it out here](https://adplist.org/)# react-native-coaching-week-3
+- **Adplist**: Another great place to find mentors and get career advice. It’s free to meet some mentors on an ad-hoc basis. You can pay to have a long-term relationship with some of the mentors. [Check it out here](https://adplist.org/)
